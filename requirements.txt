@@ -1,0 +1,10 @@
+google-api-python-client==1.12.8
+oauth2client==4.1.3
+google-cloud-bigquery==2.6.1
+bigquery-schema-generator==1.4
+google-cloud-storage==1.35.0
+apache-airflow==1.10.9
+pandas-gbq==0.14.1
+apache-airflow[gcp]
+flask_bcrypt
+tzdata
